@@ -21,4 +21,4 @@ while True:
         break
 
 # return solution
-median(numbers)
+print(median(numbers))
